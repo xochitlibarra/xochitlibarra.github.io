@@ -1,0 +1,4 @@
+Main Text Font: Love Ya Like A Sister 
+Slogan Text Font: Love Ya Like A Sister 
+Color HEX: #A14343 
+Color HSL: hsl(0,41%,45%)
